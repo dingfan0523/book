@@ -6,15 +6,26 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="e-book-product-provider" />
+        <module name="book-parent" />
+        <module name="e-book-orders-service" />
         <module name="e-book-product-service" />
+        <module name="e-book-trade-service" />
+        <module name="eureka-server" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="e-book-user-service" target="1.8" />
+      <module name="e-book-user-service (1)" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="e-book-product-provider" options="-parameters" />
+      <module name="e-book-orders-service" options="-parameters" />
       <module name="e-book-product-service" options="-parameters" />
+      <module name="e-book-trade-service" options="-parameters" />
+      <module name="e-book-user-service" options="-parameters" />
+      <module name="e-book-user-service (1)" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
     </option>
   </component>
 </project>
