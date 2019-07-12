@@ -4,20 +4,17 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/e-book-user-provider/pom.xml" />
         <option value="$PROJECT_DIR$/e-book-user-service/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/e-book-trade-provider/pom.xml" />
         <option value="$PROJECT_DIR$/e-book-trade-service/pom.xml" />
         <option value="$PROJECT_DIR$/e-book-product-service/pom.xml" />
+        <option value="$PROJECT_DIR$/e-book-product-provider/pom.xml" />
         <option value="$PROJECT_DIR$/e-book-orders-service/pom.xml" />
         <option value="$PROJECT_DIR$/e-book-orders-provider/pom.xml" />
-        <option value="$PROJECT_DIR$/e-book-product-provider/pom.xml" />
-        <option value="$PROJECT_DIR$/e-book-trade-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/e-book-consumer/pom.xml" />
       </list>
-    </option>
-    <option name="ignoredFiles">
-      <set>
-        <option value="$PROJECT_DIR$/e-book-user-provider/pom.xml" />
-      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">

@@ -3,12 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/book-parent.iml" filepath="$PROJECT_DIR$/book-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-book-consumer/e-book-consumer.iml" filepath="$PROJECT_DIR$/e-book-consumer/e-book-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/e-book-orders-provider/e-book-orders-provider.iml" filepath="$PROJECT_DIR$/e-book-orders-provider/e-book-orders-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/e-book-orders-service/e-book-orders-service.iml" filepath="$PROJECT_DIR$/e-book-orders-service/e-book-orders-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/e-book-product-provider/e-book-product-provider.iml" filepath="$PROJECT_DIR$/e-book-product-provider/e-book-product-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/e-book-product-service/e-book-product-service.iml" filepath="$PROJECT_DIR$/e-book-product-service/e-book-product-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/e-book-trade-provider/e-book-trade-provider.iml" filepath="$PROJECT_DIR$/e-book-trade-provider/e-book-trade-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/e-book-trade-service/e-book-trade-service.iml" filepath="$PROJECT_DIR$/e-book-trade-service/e-book-trade-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-book-user-provider/e-book-user-provider.iml" filepath="$PROJECT_DIR$/e-book-user-provider/e-book-user-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/e-book-user-service/e-book-user-service.iml" filepath="$PROJECT_DIR$/e-book-user-service/e-book-user-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
     </modules>

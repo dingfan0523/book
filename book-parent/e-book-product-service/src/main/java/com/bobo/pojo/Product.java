@@ -16,7 +16,7 @@ import java.util.Objects;
 @Data
 @Entity
 @NoArgsConstructor
-public class ProductEntity implements Serializable {
+public class Product implements Serializable {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(unique = true,nullable = false)
